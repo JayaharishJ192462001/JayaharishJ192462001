@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @JayaharishJ192462001
 - 👀 I’m interested in Coding
-- 🌱 I’m currently learning B.Tech CS & BS
+- 🌱 I’m currently learning B.Tech CS & BS @ SIMATS Engineering
 - 📫 How to reach me 192462001.simats@saveetha.com
 - 😄 Pronouns: He/Him
 
