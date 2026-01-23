@@ -1,10 +1,5 @@
-- 👋 Hi, I’m @JayaharishJ192462001
-- 👀 I’m interested in Coding
-- 🌱 I’m currently learning B.Tech CS & BS @ SIMATS Engineering
-- 📫 How to reach me 192462001.simats@saveetha.com
-- 😄 Pronouns: He/Him
-
-<!---
-JayaharishJ192462001/JayaharishJ192462001 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- Hi, I’m Jaya Harish J
+- I’m currently learning B.Tech Computer Science & Business Systems @ SIMATS Engineering
+- Reach me at: 192462001.simats@saveetha.com
+               jayaharishjk510@gmail.com
+  Whatsapp: https://wa.me/qr/C64VGS6YYZZJL1
